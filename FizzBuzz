@@ -1,5 +1,5 @@
 fizzbuzz = 0
-while fizzbuzz < 100:
+while fizzbuzz < 100: #sets maximum for game to count to
     fizzbuzz = fizzbuzz + 1
     if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
         print("FizzBuzz")
