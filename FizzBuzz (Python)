@@ -1,13 +1,13 @@
 fizzbuzz = 0
 while fizzbuzz < 100: #sets maximum for game to count to currently at 100 as the last number
-    fizzbuzz = fizzbuzz + 1
-    if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
+    fizzbuzz = fizzbuzz + 1 #adds to the counter through each loop
+    if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0: #defines when to print FizzBuzz when the remainder of both 3 and 5 are zero
         print("FizzBuzz")
         continue
-    elif fizzbuzz % 3 == 0:
+    elif fizzbuzz % 3 == 0: #defines when to print Fizz when the remainder of 3 is zero
         print("Fizz")
         continue
-    elif fizzbuzz % 5 == 0:
+    elif fizzbuzz % 5 == 0: #defines when to print Fizz when the remainder of 5 is zero
         print("Buzz")
         continue
     print(fizzbuzz)
