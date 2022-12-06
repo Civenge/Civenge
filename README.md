@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Civenge
 - 👀 I’m interested in learning to program
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on everything where I can learn
 - 📫 How to reach me: PM
 
