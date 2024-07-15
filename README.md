@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Civenge
 - 👀 I’m interested in learning all things SWE
-- 🌱 I’m currently learning Python, JavaScript, C#
+- 🌱 I’m currently learning Python, JavaScript/TypeScript, C#
 - 💞️ I’m looking to collaborate on everything where I can learn
 - 📫 How to reach me: PM
 
